@@ -1,0 +1,10 @@
+<?php
+
+$baseUrl = "http://services.jiyp.local:88/";
+
+$dbHost = 'localhost';
+$dbUser = 'root';
+$dbPassword = 'techarete';
+$dbName = 'jiyp';
+
+?>
